@@ -8,8 +8,8 @@ h1, h2, h3, h4, h5, h6 { font-family: Catamaran, Helvetica, Arial, sans-serif; f
 p { font-size: 18px; line-height: 1.5; margin-bottom: 20px }
 section { padding: 100px 0 }
 section h2 { font-size: 50px }
-#mainNav { border-color: rgba(34, 34, 34, .05); background-color: #fff; -webkit-transition: all .35s; -moz-transition: all .35s; transition: all .35s; font-family: Catamaran, Helvetica, Arial, sans-serif; font-weight: 200; letter-spacing: 1px }
-#mainNav .navbar-brand { color: #fdcc52; font-family: Catamaran, Helvetica, Arial, sans-serif; font-weight: 200; letter-spacing: 1px }
+#mainNav { border-color: rgba(34, 34, 34, .05); background-color: #fff; -webkit-transition: all .35s; -moz-transition: all .35s; transition: all .35s; font-family: Arial Black, Catamaran, Helvetica, Arial, sans-serif; font-weight: 200; letter-spacing: 1px }
+#mainNav .navbar-brand { color: #fdcc52; font-family: "Arial Black", Gadget, sans-serif; font-weight: 200; letter-spacing: 1px }
 #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover { color: #fcbd20 }
 #mainNav .navbar-toggler { font-size: 12px; padding: 8px 10px; color: #222 }
 #mainNav .navbar-nav>li>a { font-size: 11px; font-family: Lato, Helvetica, Arial, sans-serif; letter-spacing: 2px; text-transform: uppercase }
